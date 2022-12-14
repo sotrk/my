@@ -1,5 +1,13 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="TNT" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="NBA",TNT一
 https://nbalpng.akamaized.net/live-pz/b/hls-wvpr/g0022200413bos1000446lal/v0-121.m3u8?start=2022-12-13T15%3A44%3A00.000Z&end=END&addUserInfo=1&State=GP&PostalCode=&Zip=&LatLongRadius=&ISO3166=&ads=mr&csid=nba.com_live_nba-tv_web&afid=&prof=%3Anba_web_video&pcaid=nba-tv_live_default_asset&mcaid=&bo=no&_fw_vcid2=&_fw_gdpr=1&_fw_gdpr_consent=&_fw_us_privacy=1---&_fw_is_lat=0&_is_lat=0&_fw_ae=&_fw_h_user_agent=Mozilla%252F5.0%2520(Windows%2520NT%252010.0%253B%2520Win64%253B%2520x64)%2520AppleWebKit%252F537.36%2520(KHTML%252C%2520like%2520Gecko)%2520Chrome%252F106.0.0.0%2520Safari%252F537.36&dai-debug=false&sessionId=0efd57e7-cdcd-7388-2466-9dce06f3bfde
-
-
+#EXTINF:-1 tvg-name="TNT2" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="NBA",TNT2
+https://rr3---sn-a5meknsd.googlevideo.com/videoplayback?expire=1671017950&ei=XkWZY_DtL42UsfIPuNKKsAs&ip=198.211.44.101&id=c09bf5c90ab605ae&itag=22&source=youtube&requiressl=yes&susc=gvp&acao=yes&ctier=L&mime=video/mp4&vprv=1&dur=17.763&lmt=1669209322422766&txp=5318224&sparams=expire,ei,ip,id,itag,source,requiressl,susc,acao,ctier,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhANTqvDdkCFArPfSiYBbO0pIqtA2pby6H9C8ZT6XOcPqSAiBr0o-LkBJk5nz7D2uLVW9JlegPhk8WAywEIdz7jlCAFA==&cpn=9pCzWH9XDHwsCP4s&redirect_counter=1&rm=sn-a5mrd7s&fexp=24432587,24434499&req_id=acbf79ffd27836e2&cms_redirect=yes&cmsv=e&ipbypass=yes&mh=0n&mip=2607:f130:0:152::af3d:2569&mm=31&mn=sn-a5meknsd&ms=au&mt=1670988812&mv=m&mvi=3&pl=32&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhALHfkPyGCZPOJuGzeDoq4-1eCaZQLvWq8bnZH3jVhjuIAiEA8f14lDgtntM98odWkTMwBCC78wEj7qncTMnlpI1aX9A%3D
+#EXTINF:-1 tvg-name="TNT3" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="NBA",TNT3
+https://stream11.allsportsdaily.xyz/hls/tt.m3u8
+#EXTINF:-1 tvg-name="TNT4" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="NBA",TNT4
+https://d9882hhbtrx2o.cloudfront.net/scripts/Njc4MA==/1080p.m3u8
+#EXTINF:-1 tvg-name="TNT5" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="NBA",TNT5
+https://weak.nonsavefiles.xyz/live/NBA2/storage.m3u8
+#EXTINF:-1 tvg-name="TNT6" tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="NBA",TNT6
+http://cdn-us-east-5.azulitostreams.online/stylesheet/n5/assets.m3u8
