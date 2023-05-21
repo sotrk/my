@@ -4,29 +4,11 @@ http://219.140.56.34:3333/tsfile/live/1005_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
-https://epg.pm/stream/9cb8d0454ee8146627ca34f6384e3aa1b20f877663a8f19cf9bcc5d235479345.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
-http://39.135.138.60:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
-http://39.134.116.30:8080/PLTV/88888910/224/3221225649/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
 http://123.6.9.146/live/jz-cctv-5/live.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
-http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
-http://39.135.138.59:18890/PLTV/88888910/224/3221225648/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
 http://111.20.35.103:6610/yinhe/2/ch00000090990000001010/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
-http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
 http://111.20.35.103:6610/yinhe/2/ch00000090990000001587/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
-http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
-#EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
-http://39.135.138.59:18890/PLTV/88888888/224/3221225767/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
 http://183.63.15.42:9901/tsfile/live/0005_1.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5
@@ -35,9 +17,9 @@ http://222.240.82.92:9901/tsfile/live/0005_1.m3u8
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-logo="https://wtv.tools.bianbingdang.com/prod/api/v1/tvg/logo/CCTV5" group-title="央视",CCTV5-高清(1)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="NBA季后赛",bestv徐静雨
 https://bp-livenba.bestv.cn/live/bestvnbaxjyjs_enhance265.m3u8?auth_key=1684688405-43f82a42668f442ea0e8582b2ab42e07-0-417c8510684517f3a282dadae7a6682e
-
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SRm18cbp/NBA.png" group-title="NBA季后赛",咪咕中文
 http://cache.ott.fifalive.itv.cmvideo.cn/000000001000/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3&version=1.0&owaccmark=3000000001000028638&owchid=FifastbLive&owsid=7345451684628217233&AuthInfo=BCK8sj9Hh5J9PTeAmJa%2BQO%2FuvusT5SAn7GkwzIAgYCvK8HamcpGNMxI9GQeXa2opVlEWm%2Bjs6AxYYoH8o8GMtg%3D%3D
